@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+.env
+coverage
+dist
+build
+
+# Prisma
+prisma/dev.db
+prisma/*.db
+prisma/generated/
+prisma/*.tmp
+
+# Sistema Operacional
+.DS_Store              # macOS
+Thumbs.db              # Windows
